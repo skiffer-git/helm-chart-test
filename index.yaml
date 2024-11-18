@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  my-simple-chart:
+  - apiVersion: v2
+    created: "2024-11-18T15:26:40.18721172+08:00"
+    description: A simple Helm chart example
+    digest: d16ba28eb756ee630ec2ed2897f82450cbe0801651ad800ef516273320f03c26
+    name: my-simple-chart
+    urls:
+    - https://skiffer-git.github.io/helm-chart-test/my-simple-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-11-18T15:26:40.18667449+08:00"
